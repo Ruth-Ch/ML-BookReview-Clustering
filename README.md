@@ -1,2 +1,2 @@
 # ML-BookReview-Clustering
-Final lab project for Break Through Tech ML Foundations. Used KMeans clustering to discover themes in book reviews using unsupervised learning.
+ This notebook clusters book reviews using KMeans and TF-IDF vectorization to discover themes in book reviews using unsupervised learning.
